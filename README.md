@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have learned many programming languages including C, JAVA, PYTHON and also DSA.<br>I also learned Database Management System (Microsoft SQL Server) and currently studying MongoDB.<br>Also, i have done many projects of Web Development using HTML, CSS and JavaScript.<br>As of now, I am currently working in web development projects to inhance my skills in ReactJS, TailwindCSS and MUI.
+I have learned many programming languages including C, JAVA, PYTHON and also DSA.<br><br>I also learned Database Management System (Microsoft SQL Server) and currently studying MongoDB.<br><br>Also, i have done many projects of Web Development using HTML, CSS and JavaScript.<br><br>As of now, I am currently working in web development projects to inhance my skills in ReactJS, TailwindCSS and MUI.
 
 
 # 💻 Tech Stack:
