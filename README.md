@@ -1,6 +1,6 @@
 # 💫 About Me:
-C | JAVA | HTML5 | CSS + BOOTSTRAP | PYTHON
-ReactJS | MUI | Tailwind-CSS 
+C | JAVA | HTML5 | CSS + BOOTSTRAP | PYTHON <br>
+ReactJS | MUI | Tailwind-CSS <br>
 Microsoft SQL | MongoDB
 
 
