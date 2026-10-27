@@ -2,6 +2,7 @@
 C | JAVA | HTML5 | CSS + BOOTSTRAP | PYTHON <hr>
 ReactJS | MUI | Tailwind-CSS <hr>
 Microsoft SQL | MongoDB<hr>
+NodeJS | ExpressJS | NestJS | NextJS <hr>
 
 
 # 💻 Tech Stack:
